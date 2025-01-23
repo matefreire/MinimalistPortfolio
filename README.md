@@ -12,8 +12,8 @@ Bem-vindo(a) ao **MinimalistPortfolio**! Este é um projeto desenvolvido em **Ne
 - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [📂 Estrutura do Projeto](#-estrutura-do-projeto)
 - [🔧 Padrões Utilizados](#-padrões-utilizados)
-- [▶️ Como Executar o Projeto](#como-executar-o-projeto)
-- [⚙️ Scripts Disponíveis](#scripts-disponiveis)
+- [▶ Como Executar o Projeto](#-como-executar-o-projeto)
+- [💻 Scripts Disponíveis](#-scripts-disponíveis)
 - [🤝 Contribuição](#-contribuição)
 - [📬 Contato](#-contato)
 - [📄 Licença](#-licença)
@@ -73,7 +73,7 @@ O **MinimalistPortfolio** foi criado com o objetivo de oferecer uma base para a 
 
 ---
 
-## ▶️ Como Executar o Projeto
+## ▶ Como Executar o Projeto
 
 1. **Clone o repositório**:
    ```bash
@@ -99,7 +99,7 @@ O **MinimalistPortfolio** foi criado com o objetivo de oferecer uma base para a 
 
 ---
 
-## ⚙️ Scripts Disponíveis
+## 💻 Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
 
